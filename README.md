@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CryptoJoanna
 - 👀 I’m interested in web3, zk rollups
 - 🌱 I’m currently learning, rust & solidity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... defi
 - 📫 How to reach me (update in progress)
 
 <!---
